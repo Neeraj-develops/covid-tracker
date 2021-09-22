@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Neeraj-develops/covid-tracker.git/static/css/main.2d3343b0.chunk.css",
-    "main.js": "/Neeraj-develops/covid-tracker.git/static/js/main.5e70f33f.chunk.js",
-    "main.js.map": "/Neeraj-develops/covid-tracker.git/static/js/main.5e70f33f.chunk.js.map",
-    "runtime-main.js": "/Neeraj-develops/covid-tracker.git/static/js/runtime-main.6b65356b.js",
-    "runtime-main.js.map": "/Neeraj-develops/covid-tracker.git/static/js/runtime-main.6b65356b.js.map",
-    "static/js/2.eef6b0f2.chunk.js": "/Neeraj-develops/covid-tracker.git/static/js/2.eef6b0f2.chunk.js",
-    "static/js/2.eef6b0f2.chunk.js.map": "/Neeraj-develops/covid-tracker.git/static/js/2.eef6b0f2.chunk.js.map",
-    "index.html": "/Neeraj-develops/covid-tracker.git/index.html",
-    "static/css/main.2d3343b0.chunk.css.map": "/Neeraj-develops/covid-tracker.git/static/css/main.2d3343b0.chunk.css.map",
-    "static/js/2.eef6b0f2.chunk.js.LICENSE.txt": "/Neeraj-develops/covid-tracker.git/static/js/2.eef6b0f2.chunk.js.LICENSE.txt"
+    "main.css": "/react_project/static/css/main.2d3343b0.chunk.css",
+    "main.js": "/react_project/static/js/main.5e70f33f.chunk.js",
+    "main.js.map": "/react_project/static/js/main.5e70f33f.chunk.js.map",
+    "runtime-main.js": "/react_project/static/js/runtime-main.4ea5d054.js",
+    "runtime-main.js.map": "/react_project/static/js/runtime-main.4ea5d054.js.map",
+    "static/js/2.eef6b0f2.chunk.js": "/react_project/static/js/2.eef6b0f2.chunk.js",
+    "static/js/2.eef6b0f2.chunk.js.map": "/react_project/static/js/2.eef6b0f2.chunk.js.map",
+    "index.html": "/react_project/index.html",
+    "static/css/main.2d3343b0.chunk.css.map": "/react_project/static/css/main.2d3343b0.chunk.css.map",
+    "static/js/2.eef6b0f2.chunk.js.LICENSE.txt": "/react_project/static/js/2.eef6b0f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b65356b.js",
+    "static/js/runtime-main.4ea5d054.js",
     "static/js/2.eef6b0f2.chunk.js",
     "static/css/main.2d3343b0.chunk.css",
     "static/js/main.5e70f33f.chunk.js"
